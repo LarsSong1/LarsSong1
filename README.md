@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpibThkdDJjejh5YWpodHdlbWNuZDk0aGNxNmk0eGxtMTl0ZGo5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -89,14 +85,20 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LarsSong1/LarsSong1/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LarsSong1.LarsSong1&"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpibThkdDJjejh5YWpodHdlbWNuZDk0aGNxNmk0eGxtMTl0ZGo5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"  />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LarsSong1/LarsSong1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LarsSong1/LarsSong1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LarsSong1/LarsSong1/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
